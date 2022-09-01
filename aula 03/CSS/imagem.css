@@ -1,0 +1,21 @@
+.dimensao{
+width: 600px;
+}
+/*O que for declarado da seguinte forma: .declaração é compreendido como uma classe no css */
+img {
+    width: 400px;
+    border:  solid 0px;
+}
+/* O que for declarado como identificador de tag vai ser aplicado em todas as ocorrências em que aparecer*/
+#jose{
+    border: dotted 5px #fff000;
+}
+#gg{
+    width: 700px;
+    border: dotted 5px pink;
+}
+#dino{
+    border: dotted purple;
+}
+/* quando vode declara com # então o tipo 'id' vai ser aplicado! Esse tipo, apesar de funcionar, não é tão recomendado, pois ids 
+precisam ser únicos e não se repetem */
