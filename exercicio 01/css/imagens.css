@@ -4,4 +4,7 @@ width: 600px;
 .tt{
     width: 100px;
 }
- 
+.myDiv{
+    background-color: rgb(255, 176, 238);
+    text-align: center;
+}
